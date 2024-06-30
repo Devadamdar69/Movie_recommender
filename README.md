@@ -35,4 +35,9 @@ This is a Movie Recommender System built using Streamlit, Pandas, and Pickle. Th
     - Select a movie from the dropdown.
     - Click on the "Recommend" button to get movie recommendations along with their posters.
 
+## Files
+You can download files from kaggle
+### Links
+Movie = "https://www.kaggle.com/code/erikbruin/movie-recommendation-systems-for-tmdb/input?select=tmdb_5000_movies.csv"
+Credits = "https://www.kaggle.com/code/erikbruin/movie-recommendation-systems-for-tmdb/input?select=tmdb_5000_credits.csv"
 
