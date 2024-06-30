@@ -38,6 +38,6 @@ This is a Movie Recommender System built using Streamlit, Pandas, and Pickle. Th
 ## Files
 You can download files from kaggle
 ### Links
-Movie = "https://www.kaggle.com/code/erikbruin/movie-recommendation-systems-for-tmdb/input?select=tmdb_5000_movies.csv"
-Credits = "https://www.kaggle.com/code/erikbruin/movie-recommendation-systems-for-tmdb/input?select=tmdb_5000_credits.csv"
+- Movie = [Link](https://www.kaggle.com/code/erikbruin/movie-recommendation-systems-for-tmdb/input?select=tmdb_5000_movies.csv) 
+- Credits = [Link](https://www.kaggle.com/code/erikbruin/movie-recommendation-systems-for-tmdb/input?select=tmdb_5000_credits.csv)
 
